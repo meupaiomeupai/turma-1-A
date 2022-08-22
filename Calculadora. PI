@@ -1,0 +1,53 @@
+While True:
+
+2 print("qual calculadora vamos usar?")
+
+3
+
+calculadora = int(input("[1] 4v if calculadora == 1:
+
+fisica [2] matemática"))
+
+newton = int(input("vamos calcular qual formula?\n[1] 2 let de newton
+
+[2]nenhuma\n"))
+
+6
+
+print("*****
+
+7
+
+print("* calculadora da Segunda let de Newton *")
+
+8
+
+print("*******
+
+9
+
+massa= int(input("qual é a massa do corpo"))
+
+10
+
+aceleracao = float(input("Qual é a aceleração do corpo?\n"))
+
+11
+
+12
+
+13
+
+print("\nA força é equivalente a", massa aceleracao, "Newtons\n\n")
+
+14
+
+continua = int(input("vamos continuar?\n[1]sim [2]não"))
+
+if continua = 1: continue
+
+ទី 3 គ្ន − គ្ន ៨ គ
+
+if continua 2:
+
+break
